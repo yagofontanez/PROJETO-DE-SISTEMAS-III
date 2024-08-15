@@ -86,3 +86,6 @@ public class Remover extends JPanel {
 
 	}
 }
+
+
+

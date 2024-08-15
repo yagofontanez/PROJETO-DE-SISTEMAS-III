@@ -92,3 +92,6 @@ public class InserirProduto extends JPanel {
 
 	}   
 }
+
+
+

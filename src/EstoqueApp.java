@@ -93,3 +93,6 @@ public class EstoqueApp extends JPanel {
         return false;  // Retorna false se não houver estoque suficiente ou se ocorrer um erro
     }
 }
+
+
+

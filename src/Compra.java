@@ -241,4 +241,7 @@ public class Compra extends JPanel {
             ex.printStackTrace();  // Detalhes do erro para diagnóstico
         }
     }
-}
+}  
+
+
+

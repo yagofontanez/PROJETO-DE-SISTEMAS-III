@@ -64,3 +64,4 @@ public class Atualizar extends JPanel {
 		add(btnNewButton);
 	}
 }
+    

@@ -56,3 +56,7 @@ public class Consulta extends JPanel {
 
 	}
 }
+  
+
+
+
