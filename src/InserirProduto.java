@@ -90,5 +90,5 @@ public class InserirProduto extends JPanel {
 		btnNewButton_2.setBounds(296, 197, 89, 23);
 		add(btnNewButton_2);
 
-	}
+	}   
 }
